@@ -1,2 +1,2 @@
 # apptribe.io
-Tribe is te official template of Apptribe.
+Tribe is the official template of Apptribe.
