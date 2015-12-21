@@ -56,7 +56,7 @@ get_header(); ?>
                                         <h3>Ronald Guillen</h3>
                                         <span class="meta">Overlord & Master Chief</span>
                                         <a href="mailto:ronald@apptribe.io" class="meta">ronald@apptribe.io</a>
-                                        <span class="tagline"><em>"You know nothing Jhoon Snow"</em></span>
+                                        <span class="tagline"><em>"You know nothing, Jhoon Snow"</em></span>
                                     </div>
                                 </div>
                                 <div class="col-md-5">
@@ -65,7 +65,7 @@ get_header(); ?>
                                         <h3>Jhoon Saravia</h3>
                                         <span class="meta">Hipster Samurai Cat</span>
                                         <a href="mailto:jhoon@aptribe.io" class="meta">jhoon@aptribe.io</a>
-                                        <span class="tagline"><em>"Don’t panic. Everybody lies"</em></span>
+                                        <span class="tagline"><em>"Don’t panic. Everybody lies."</em></span>
                                     </div>
                                 </div>
                             </div>
@@ -76,7 +76,7 @@ get_header(); ?>
                                         <h3>Hansy Schmitt</h3>
                                         <span class="meta">Underpaid Android Minion</span>
                                         <a href="mailto:hansy@apptribe.io" class="meta">hansy@apptribe.io</a>
-                                        <span class="tagline"><em>"Damn it, another buffer overflow"</em></span>
+                                        <span class="tagline"><em>"Damn it, another buffer overflow."</em></span>
                                     </div>
                                 </div>
                                 <div class="col-md-5">
